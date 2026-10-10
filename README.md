@@ -1,3 +1,8 @@
+> [!WARNING]
+>
+> This repository is deprecated.
+
+
 # gRPC Support for LabVIEW
 
 This repo contains necessary C++ code and support VIs to implement a gRPC server and client in LabVIEW. You can either use the service as defined to implement a generic server via gRPC or use the implementation as a pattern to implement a gRPC service of your design.
